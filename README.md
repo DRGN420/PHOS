@@ -17,7 +17,9 @@ Stromversorgung: 5V / 70A Netzteil mit Step-Up-Modul
 Repository-Inhalte
 
 📂 /hardware – Schaltpläne, PCB-Designs, CNC-Vorlagen für MDF-Platten
+
 📂 /firmware – Arduino-Sketch für die Steuerung von Sensoren & LEDs
+
 📂 /docs – Detaillierte Dokumentation mit DIY-Anleitung
 
 Setup & Installation
