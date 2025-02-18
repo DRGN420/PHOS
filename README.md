@@ -4,7 +4,9 @@ PHÔS² - The Interactive Square
 PHÔS² ist ein modularer, interaktiver Reaktionstisch, der mit kapazitiven Touchsensoren, LED-Ringen und WLAN-Steuerung arbeitet. Dieses Projekt kombiniert moderne Sensortechnik mit Echtzeit-LED-Feedback und bietet drei verschiedene Spielmodi:
 
 ✅ Game Mode – Ein schnelles Reaktionsspiel, bei dem Spieler aufleuchtende Felder so schnell wie möglich deaktivieren müssen.
+
 ✅ Memory Mode – Spieler müssen sich eine zufällige Sequenz merken und diese korrekt wiederholen.
+
 ✅ Ambient Mode – Der Tisch reagiert dynamisch auf Berührungen mit individuellen Lichteffekten.
 
 Technische Details
