@@ -18,21 +18,27 @@ Stromversorgung: 5V / 70A Netzteil mit Step-Up-Modul
 
 Repository-Inhalte
 
-📂 /hardware – Schaltpläne, PCB-Designs, CNC-Vorlagen für MDF-Platten
-
 📂 /firmware – Arduino-Sketch für die Steuerung von Sensoren & LEDs
 
 📂 /docs – Detaillierte Dokumentation mit DIY-Anleitung
 
 Setup & Installation
-Arduino Mega mit ESP8266 verbinden (siehe Anleitung in /docs/esp8266_flash.md).
+
 Sketch aus /firmware in der Arduino IDE hochladen und benötigte Bibliotheken installieren:
+
 #include <Adafruit_NeoPixel.h>
+
 #include "WiFiEsp.h"
-ESP8266 mit WLAN konfigurieren (AT-Befehle siehe /docs/wifi_setup.md).
+
+ESP8266 mit WLAN konfigurieren
+
 Web-Interface aufrufen: Nach Verbindung über WLAN im Browser http://<IP-Adresse> öffnen.
+
 Spielmodi über das Web-Interface auswählen und loslegen!
+
 Beitrag & Weiterentwicklung
+
 Pull Requests willkommen! Falls du Ideen für neue Features hast (z. B. Soundeffekte oder API-Anbindung), erstelle bitte ein Issue.
+
 Lizenz: Open Source
 
