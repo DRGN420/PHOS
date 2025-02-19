@@ -1,4 +1,6 @@
 # PHOS
+
+
 PHÔS² - The Interactive Square
 Über das Projekt
 PHÔS² ist ein modularer, interaktiver Reaktionstisch, der mit kapazitiven Touchsensoren, LED-Ringen und WLAN-Steuerung arbeitet. Dieses Projekt kombiniert moderne Sensortechnik mit Echtzeit-LED-Feedback und bietet drei verschiedene Spielmodi:
